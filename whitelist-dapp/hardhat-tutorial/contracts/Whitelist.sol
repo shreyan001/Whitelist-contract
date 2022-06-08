@@ -38,4 +38,3 @@ contract Whitelist {
 
 }
 
-//0xFEdfA40Ca7dE264e59eFf7526AdBD2D825830a9B
